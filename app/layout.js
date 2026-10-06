@@ -46,7 +46,7 @@ export default function RootLayout({ children }) {
     "description": "Comprehensive foreign education admissions, test coaching (IELTS, PTE, GRE), student visa processing, and MBBS abroad consultancy.",
     "url": "https://iqinternational.in",
     "logo": "https://iqinternational.in/assets/logo.png",
-    "telephone": "+919825100000",
+    "telephone": "+918866190749",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": "417, Opera Business Hub, Lajamni Chowk, near Savji Korat Bridge, Maruti Dham Society",

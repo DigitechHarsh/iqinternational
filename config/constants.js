@@ -12,12 +12,12 @@ export const SITE_CONFIG = {
   locationShort: "Mota Varachha, Surat",
 
   // CONTACT INFORMATION
-  phone: "+91 98251 00000",
-  phoneRaw: "+919825100000",
+  phone: "+91 88661 90749",
+  phoneRaw: "+918866190749",
   
   // WhatsApp Number (91 + 10 digits)
-  whatsappNumber: "919825100000",
-  whatsappDisplay: "+91 98251 00000",
+  whatsappNumber: "918866190749",
+  whatsappDisplay: "+91 88661 90749",
 
   // Physical Office Address
   address: "417, Opera Business Hub, Lajamni Chowk, near Savji Korat Bridge, Maruti Dham Society, Mota Varachha, Surat, Gujarat 394101",
